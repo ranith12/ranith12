@@ -61,9 +61,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🛒 [**App Name**](#) | Brief one-line description of what it does | Flutter, Firebase |
-| 📋 [**App Name**](#) | Brief one-line description of what it does | React Native |
-| 🎮 [**App Name**](#) | Brief one-line description of what it does | Dart, REST API |
+| 📋 [**TaskFlow**](YOUR_REPO_LINK) | A clean to-do app to manage daily tasks | Flutter, Dart |
+| 🌤️ [**WeatherNow**](YOUR_REPO_LINK) | Real-time weather app using OpenWeather API | Flutter, REST API |
+| 💰 [**SpendSmart**](YOUR_REPO_LINK) | Personal expense tracker with spending charts | Flutter, Firebase |
 
 > 💡 *Replace these rows with your real projects once you build them!*
 

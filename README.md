@@ -46,3 +46,8 @@ Git | Flutter | Spring Boot ..Etc Learner
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ranith12&theme=tokyonight)](https://git.io/streak-stats)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ranith12/ranith12/blob/output/github-contribution-grid-snake.svg)

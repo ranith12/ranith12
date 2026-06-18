@@ -50,4 +50,4 @@ Git | Flutter | Spring Boot ..Etc Learner
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ranith12/ranith12/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ranith12/ranith12/output/snake.svg)
